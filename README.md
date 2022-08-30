@@ -13,6 +13,6 @@ Ever want to reuse a file from one project to another? I certainly do.  I find m
 1. To grab a single file using curl
 
     ```
-    curl https://github.com/datajango/snippets/blob/main/git/python.gitignore > .gitignore
+    curl https://raw.githubusercontent.com/datajango/snippets/main/git/python.gitignore > .gitignore
     ```
 
